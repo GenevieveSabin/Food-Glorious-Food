@@ -1,0 +1,63 @@
+body{
+	text-align: center;
+  background: #97A7B3;
+  color: #67697C;
+  font-size: 25px;
+  font-family: 'Indie Flower',cursive;
+}
+#banner h1{
+  font-family: 'Indie Flower',cursive;
+  color: #E83151;
+  font-weight: heavier;
+  font-size: 40px;
+}
+h2 {
+  font-family: 'Indie Flower',cursive;
+  color: #E83151;
+  font-weight: lighter;
+  font-size: 30px;
+}
+a {
+  color: yellow;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+
+#banner{
+  text-align: center;
+  background-image: url("https://images.pexels.com/photos/1268558/pexels-photo-1268558.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  background-size: cover;
+  padding: 150px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+
+#banner p {
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+  font-size: 20px;
+}
+
+}
+#footer a:hover {
+  color: white;
+}
+
+.card{
+  padding: 50px;
+  font-weight: lighter;
+  border: solid;
+  margin: 46px;
+  margin-right: 1px;
+  margin-left: 1px;
+  height: 500px;
+}
